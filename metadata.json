@@ -1,0 +1,8 @@
+{
+  "name": "Indo Trading Limited",
+  "description": "Premium multi-page website for Indo Trading Limited, a high-end jewelry trading company specializing in fashion jewelry sourcing, raw materials, and finished goods, featuring a dark, premium aesthetic with navy blue background, gold text, and a dark footer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
